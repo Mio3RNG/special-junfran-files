@@ -1,0 +1,18 @@
+body{
+    background: url(https://www.fightersgeneration.com/news2020/game/cvs2-stage-london.jpg)
+     
+}
+
+
+h1{
+    font-size: large azure;
+}
+p{
+    font-size: medium;
+    font-style: italic;
+}
+
+div{
+    background-color: azure;
+    border-style: groove;
+}

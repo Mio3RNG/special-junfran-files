@@ -5,7 +5,7 @@ h1{
     color: azure;
 }
 h3{
-    color: aquamarine;
+    color: azure;
 }
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
@@ -27,4 +27,7 @@ div2{
 
 span{
     color: lightskyblue
+}
+a{
+    color: white;
 }
